@@ -6,7 +6,9 @@ const controller = class {
     }
 }
 
-export let AppComponent = { 
+const  AppComponent = { 
     template, 
     controller
 };
+
+export default AppComponent;
